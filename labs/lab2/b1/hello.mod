@@ -1,0 +1,2 @@
+/home/cabylock/Desktop/qemu-lab/labs/lab2/b1/hello.o
+

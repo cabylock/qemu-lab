@@ -1,0 +1,1 @@
+cmd_/home/cabylock/Desktop/qemu-lab/labs/lab2/b5/hello_multi.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/cabylock/Desktop/qemu-lab/labs/lab2/b5/hello_multi.ko /home/cabylock/Desktop/qemu-lab/labs/lab2/b5/hello_multi.o /home/cabylock/Desktop/qemu-lab/labs/lab2/b5/hello_multi.mod.o;  true

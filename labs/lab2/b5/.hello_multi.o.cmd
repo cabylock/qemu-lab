@@ -1,0 +1,1 @@
+cmd_/home/cabylock/Desktop/qemu-lab/labs/lab2/b5/hello_multi.o := ld -m elf_x86_64 -z noexecstack --no-warn-rwx-segments   -r -o /home/cabylock/Desktop/qemu-lab/labs/lab2/b5/hello_multi.o /home/cabylock/Desktop/qemu-lab/labs/lab2/b5/main.o /home/cabylock/Desktop/qemu-lab/labs/lab2/b5/helper.o

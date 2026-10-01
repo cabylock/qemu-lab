@@ -1,0 +1,1 @@
+cmd_/home/cabylock/Desktop/qemu-lab/labs/lab2/b1/modules.order := {   echo /home/cabylock/Desktop/qemu-lab/labs/lab2/b1/hello.ko; :; } | awk '!x[$$0]++' - > /home/cabylock/Desktop/qemu-lab/labs/lab2/b1/modules.order

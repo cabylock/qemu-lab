@@ -1,0 +1,1 @@
+cmd_/home/cabylock/Desktop/qemu-lab/labs/lab2/b5/hello_multi.mod := { echo  /home/cabylock/Desktop/qemu-lab/labs/lab2/b5/main.o /home/cabylock/Desktop/qemu-lab/labs/lab2/b5/helper.o;  echo; } > /home/cabylock/Desktop/qemu-lab/labs/lab2/b5/hello_multi.mod

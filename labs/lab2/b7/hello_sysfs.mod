@@ -1,0 +1,2 @@
+/home/cabylock/Desktop/qemu-lab/labs/lab2/b7/hello_sysfs.o
+

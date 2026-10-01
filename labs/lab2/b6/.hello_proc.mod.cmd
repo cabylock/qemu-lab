@@ -1,0 +1,1 @@
+cmd_/home/cabylock/Desktop/qemu-lab/labs/lab2/b6/hello_proc.mod := { echo  /home/cabylock/Desktop/qemu-lab/labs/lab2/b6/hello_proc.o;  echo; } > /home/cabylock/Desktop/qemu-lab/labs/lab2/b6/hello_proc.mod

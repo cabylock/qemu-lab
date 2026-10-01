@@ -1,0 +1,1 @@
+cmd_/home/cabylock/Desktop/qemu-lab/labs/lab2/b7/hello_sysfs.mod := { echo  /home/cabylock/Desktop/qemu-lab/labs/lab2/b7/hello_sysfs.o;  echo; } > /home/cabylock/Desktop/qemu-lab/labs/lab2/b7/hello_sysfs.mod

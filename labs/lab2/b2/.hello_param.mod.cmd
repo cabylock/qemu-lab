@@ -1,0 +1,1 @@
+cmd_/home/cabylock/Desktop/qemu-lab/labs/lab2/b2/hello_param.mod := { echo  /home/cabylock/Desktop/qemu-lab/labs/lab2/b2/hello_param.o;  echo; } > /home/cabylock/Desktop/qemu-lab/labs/lab2/b2/hello_param.mod

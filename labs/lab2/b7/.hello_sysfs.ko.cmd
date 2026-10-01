@@ -1,0 +1,1 @@
+cmd_/home/cabylock/Desktop/qemu-lab/labs/lab2/b7/hello_sysfs.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/cabylock/Desktop/qemu-lab/labs/lab2/b7/hello_sysfs.ko /home/cabylock/Desktop/qemu-lab/labs/lab2/b7/hello_sysfs.o /home/cabylock/Desktop/qemu-lab/labs/lab2/b7/hello_sysfs.mod.o;  true

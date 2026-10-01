@@ -1,0 +1,1 @@
+cmd_/home/cabylock/Desktop/qemu-lab/labs/lab2/b4/hello_array.mod := { echo  /home/cabylock/Desktop/qemu-lab/labs/lab2/b4/hello_array.o;  echo; } > /home/cabylock/Desktop/qemu-lab/labs/lab2/b4/hello_array.mod

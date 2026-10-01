@@ -1,0 +1,1 @@
+cmd_/home/cabylock/Desktop/qemu-lab/labs/lab2/b8/modules.order := {   echo /home/cabylock/Desktop/qemu-lab/labs/lab2/b8/provider.ko;   echo /home/cabylock/Desktop/qemu-lab/labs/lab2/b8/consumer.ko; :; } | awk '!x[$$0]++' - > /home/cabylock/Desktop/qemu-lab/labs/lab2/b8/modules.order
