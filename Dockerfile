@@ -11,6 +11,8 @@ RUN apt-get update && apt-get install -y \
     && apt-get clean && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /work
+# test commit 2 
+
 
 # copy config cần thiết (kernel config fragment + scripts)
 COPY release.config ./
