@@ -1,0 +1,7 @@
+services:
+  builder:
+    build: .
+    privileged: true
+    volumes:
+      - .:/work
+    command: ./build_all_docker.sh
